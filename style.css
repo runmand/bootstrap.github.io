@@ -1,0 +1,30 @@
+.navbar {
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    color: white;
+}
+
+.quem_somos {
+    background-color: antiquewhite
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.parceiros {
+    background-color: peachpuff;
+}
+
+.servicos1 {
+    background-color: pink;
+    color: blueviolet;
+    font-style: italic;
+}
+
+.servicos {
+    background-color: pink;
+}
